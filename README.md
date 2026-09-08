@@ -1,4 +1,4 @@
-**Quantum Boolean analysis: an eight-session reading group**
+# Reading Group: Quantum Boolean analysis
 
 Draft prepared 8 September 2026. Audience: quantum information, extremal combinatorics, theoretical computer science, programming languages, and machine learning. **Eight meetings of 90 minutes each, totaling 12 contact hours.** The literature selection includes published foundations and explicitly identified 2026 preprints.
 
